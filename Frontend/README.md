@@ -1,4 +1,4 @@
-# softwaredesign
+# Medical platform frontend
 
 ## Project setup
 ```
